@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/EP02-LP2.props" />
+</Project>

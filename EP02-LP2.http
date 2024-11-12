@@ -1,0 +1,6 @@
+@EP02_LP2_HostAddress = http://localhost:5192
+
+GET {{EP02_LP2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
